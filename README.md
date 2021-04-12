@@ -31,7 +31,7 @@ I'm **abhay pratap singh**(<a href="https://github.com/thakur8630/" target="_bla
 <br>
 
 **Mostly use languages... **
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakur8630)
 
 
 
