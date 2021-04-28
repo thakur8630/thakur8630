@@ -1,5 +1,8 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Abhay pratap singh</h1>
+<h3 align="center">A passionate programmer and frontend devloper in Angular from india</h3>
+
 I'm **abhay pratap singh**(<a href="https://github.com/thakur8630/" target="_blank">thakur8630</a>),I am student of b.tech in computer science and engineering I have more type of skills like MEAN stack and MERN stack technology and python and c/c++ .... and i also known core subject in computer science.. <br> <br>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
