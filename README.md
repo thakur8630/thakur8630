@@ -15,7 +15,7 @@ I am student of b.tech in computer science and engineering I have many type of s
 <br><br>
 <img align="left" alt="thakur Medium" width="80px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://medium.com/@abhaypratap99728">Medium</a>
 <br>
-<img align="left" alt="thakur superset" width="80px" src="https://app.joinsuperset.com/#/s/profile"/> <a href="https://app.joinsuperset.com/#/s/profile">Superset</a>
+<img align="left" alt="thakur superset" width="80px" src=""https://miro.app.joinsuperset.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"> <a href="https://app.joinsuperset.com/#/s/profile">Superset</a>
 <br>
 <br>
 
