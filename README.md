@@ -4,7 +4,7 @@
 <h3 align="center">A passionate programmer and Salesforce Developer</h3>
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in Apex, LWC, Aura, Batch Classes, 
-Test Classes, JAVASCRIPT, and Data Structure. Passionate about implementing and launching new projects and Ideas. Ability to translate business requirements into technical solutions. Looking to move to a good reputed organisation to implement my Skills Set.
+Test Classes, JAVASCRIPT, and Data Structure. Passionate about implementing and launching new projects and Ideas. Ability to translate business requirements into technical solutions.
 <br> <br>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
